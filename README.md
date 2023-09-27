@@ -43,7 +43,7 @@ To run test:
 npm test
 ```
 
-## What can be improved (this is not done because of time limit, also because of work load in current company)
+## What can be improved
 
 ### I. Feature
 - UI need to be improved. Can use library, e.g. Material UI
