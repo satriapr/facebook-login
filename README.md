@@ -5,8 +5,6 @@ This is a simple Facebook login with passport using React.js, generated using cr
 ## Demo
 [![Facebook Login](https://s10.gifyu.com/images/Facebook-Login.gif "Facebook Login")](https://s10.gifyu.com/images/Facebook-Login.gif "Facebook Login")
 
-**Note:** *Since this app is in testing mode, please let me know the reviewer facebook ID / username, I will add the account as tester in order to be able to test this using personal facebook account. Thank you*
-
 ## Technical overview
 
 ### I. Main dependency libraries
